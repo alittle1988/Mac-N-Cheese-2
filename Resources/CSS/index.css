@@ -46,7 +46,9 @@ img {
     font-size: 1.25rem;
 }
 
-
+#ingredientBtn {
+    width: 150px;
+}
 
 
 @media only screen and (max-width: 960px) {
