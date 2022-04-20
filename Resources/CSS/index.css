@@ -1,0 +1,76 @@
+html {
+    font-size: 16px;
+}
+
+
+
+/*header section*/
+
+.navbar {
+    padding: 50px 0;
+}
+
+#header-img {
+    background-image: url(../Images/macNCheese.jpeg);
+    background-size: cover;
+    background-position: 50%;
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+img {
+    border: 4px solid white;
+
+
+}
+
+@media only screen and (max-width: 767.98px ) {
+    #img {
+        display: none;
+    }
+}
+
+/* ingredient Section */
+
+#mainIngredientTitle {
+    text-decoration: underline;
+}
+
+#openingP {
+    font-size: 1.25rem;
+}
+
+
+
+
+@media only screen and (max-width: 960px) {
+    #ingredient-img img {
+        display: none;}
+}
+
+
+/* Tools Section */
+
+#tools-img {
+    height: 300px;
+    width: auto;
+}
+
+@media only screen and (max-width: 960px){
+    #tools-img {
+        display: none;
+    }
+    
+}
+
+/* steps section*/
+
+#steps-list {
+    font-size: 1.5rem;
+}
