@@ -15,7 +15,7 @@ h1 {
 }
 
 #header-img {
-    background-image: url(/Images/macNCheese.jpeg);
+    background-image: url(Images/macNCheese.jpeg);
     background-size: cover;
     background-position: 50%;
 }
