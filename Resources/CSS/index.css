@@ -2,6 +2,10 @@ html {
     font-size: 16px;
 }
 
+h1 {
+    text-decoration: underline;
+}
+
 
 
 /*header section*/
@@ -35,6 +39,10 @@ img {
         display: none;
     }
 }
+
+/* Opening Section */
+
+
 
 /* ingredient Section */
 
