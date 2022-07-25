@@ -49,7 +49,8 @@ function moveSteps() {
     index = index + 1;
 } else {
     stepHead.remove();
-    stepText.textContent = 'Time to Taste!'
+    stepText.textContent = 'Time to Taste!';
+    document.querySelector('.closing').style.display = 'block'
 }
     
 }

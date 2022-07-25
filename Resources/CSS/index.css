@@ -118,3 +118,11 @@ img {
 #ingredient:checked + label{
     text-decoration: line-through;
 }
+
+
+/* closting section */
+
+
+.closing {
+    display: none;
+}
