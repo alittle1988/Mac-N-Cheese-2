@@ -15,7 +15,7 @@ h1 {
 }
 
 #header-img {
-    background-image: url(./Images/macNCheese.jpeg);
+    background-image: url('/Resources/Images/macNCheese.jpeg');
     background-size: cover;
     background-position: 50%;
 }
@@ -41,6 +41,10 @@ img {
 }
 
 /* Opening Section */
+
+main {
+    background-clip:  url('/Resources/Videos/stock-footage-macaroni-pasta-falling-in-slow-motion.webm');
+}
 
 
 
